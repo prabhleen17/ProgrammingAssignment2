@@ -1,6 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-#cachematrix.R ---> by Sarthak
+#cachematrix.R ---> by Prabhleen
 ## Write a short comment describing this function
 ##This function Function makeCacheMatrix gets a matrix as an input, set the value of the matrix,
 #get the value of the matrix, set the inverse Matrix and get the inverse Matrix. The matrix object
